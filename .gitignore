@@ -1,0 +1,20 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Memory
+YonocyTech/memory/data/
+YonocyTech/memory/chroma_data/
+
+# Temp
+sandbox_temp.py
