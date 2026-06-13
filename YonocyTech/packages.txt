@@ -1,0 +1,2 @@
+# System dependencies for Streamlit Cloud (apt packages)
+libsqlite3-0
